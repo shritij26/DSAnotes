@@ -142,6 +142,8 @@ int main() {
     return 0;
 }
 
+// DIJKSTRA has aa limitation it doesnt work for negative weights...use bellman ford algo for that
+
 /*
 🧠 Time and Space Complexity Analysis
 -----------------------------------------------
